@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Blog (by David Kocman)
 
-We recommend to look at the [documentation](https://v3.nuxtjs.org).
+We recommend to look at the [documentation of nuxt3](https://v3.nuxtjs.org).
 
 ## Setup
 
@@ -16,6 +16,7 @@ Start the development server on http://localhost:3000
 
 ```bash
 yarn dev
+yarn dev -o
 ```
 
 ## Production
